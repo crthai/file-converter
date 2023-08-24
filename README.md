@@ -27,4 +27,4 @@ npm install
 ## Usage
 ### Run
 ```
-npm start
+node app.js
